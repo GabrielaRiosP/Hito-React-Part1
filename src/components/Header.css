@@ -1,0 +1,11 @@
+
+header {
+    background-image: url(../assets/img/Header.jpg);
+    background-position: top;
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+header {
+    height: 20%;
+}
