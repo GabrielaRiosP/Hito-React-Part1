@@ -1,8 +1,9 @@
 import './App.css'
 import Navbar from './components/Navbar'
 import './components/Home'
+import './components/Register'
 import Footer from './components/Footer'
-import Register from './components/Register'
+import Login from './components/Login'
 
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
     <>
       <Navbar/>
       {/* <Home /> */}
-      <Register />
+      {/*<Register /> */}
+      <Login />
       <Footer/>
     </>
   )
