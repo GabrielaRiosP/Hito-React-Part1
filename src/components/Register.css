@@ -1,0 +1,28 @@
+.formulario {
+    margin: 5px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formulario .data {
+    border: 2px solid rgb(33, 34, 33);
+    padding: 20px;
+    justify-content: space-between;
+    gap: 15px;
+}
+.formulario .data div {
+    margin-bottom: 15px;
+}
+
+.formulario .data label {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.formulario .data input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
